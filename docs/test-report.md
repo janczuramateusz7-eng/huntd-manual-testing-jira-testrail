@@ -4,7 +4,7 @@
 
 ## 📌 Summary
 
-Testing was performed on the Huntd application across web and mobile platforms.
+Testing was performed on the Huntd web and mobile platforms.
 
 The focus was on validating core user flows, role-based access, and application behavior.
 
@@ -12,7 +12,7 @@ The focus was on validating core user flows, role-based access, and application 
 
 ## 🧪 Scope
 
-- web application (desktop & mobile browser)
+- web application (desktop)
 - mobile application (Android)
 
 ---
