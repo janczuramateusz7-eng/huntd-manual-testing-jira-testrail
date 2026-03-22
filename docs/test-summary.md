@@ -26,7 +26,6 @@
 ## 📱 Platforms Tested
 
 - Web (desktop)
-- Web (mobile browser)
 - Mobile application (Android)
 
 ---
