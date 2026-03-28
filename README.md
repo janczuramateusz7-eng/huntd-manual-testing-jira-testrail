@@ -46,7 +46,7 @@ The project included:
 - Jira (bug tracking, task management)
 - TestRail (test case management – documented)
 - Chrome DevTools
-- Mobile emulator / Android device
+- Android device
 - GitHub
 
 ---
@@ -58,7 +58,7 @@ The project included:
 - `/bugs` → bug reports (web & mobile)  
 - `/jira` → Jira workflow description  
 - `/testrail` → TestRail structure (documented)  
-- `/screenshots` → evidence (screens / recordings)  
+- `/screenshots` → evidence (screenshots)  
 
 ---
 
